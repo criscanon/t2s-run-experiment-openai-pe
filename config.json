@@ -1,0 +1,7 @@
+{
+    "model_gpt_35": "gpt-3.5-turbo-0125",
+    "model_gpt_4o": "gpt-4o",
+    "connection_string": "sqlite:///database/sqlite-sakila.db",
+    "dataset_excel_path": "dataset/data-nlq-sql-80.xlsx",
+    "output_path": "findings/"
+}
